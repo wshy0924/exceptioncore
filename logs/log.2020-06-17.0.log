@@ -1,0 +1,71 @@
+22:27:04.088 [main] INFO  c.w.f.FrontwebApplicationTests - Starting FrontwebApplicationTests on LAPTOP-999H49BF with PID 40820 (started by ASUS in E:\SpringBootProject\springbootDemo)
+22:27:04.089 [main] INFO  c.w.f.FrontwebApplicationTests - The following profiles are active: dev2
+22:27:04.126 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4c2cc639
+22:27:04.126 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4c2cc639
+22:27:04.769 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.wshy.exceptioncore]' package. Please check your configuration.
+22:27:05.589 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+22:27:05.616 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+22:27:05.616 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+22:27:05.706 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 8 mappings in 'requestMappingHandlerMapping'
+22:27:05.706 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 8 mappings in 'requestMappingHandlerMapping'
+22:27:05.770 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+22:27:05.770 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+22:27:05.789 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+22:27:05.789 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+22:27:05.897 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+22:27:05.899 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+22:27:06.047 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+22:27:06.231 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+22:27:06.521 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+22:27:06.603 [main] INFO  c.w.f.FrontwebApplicationTests - Started FrontwebApplicationTests in 2.988 seconds (JVM running for 4.012)
+22:27:06.901 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@4c2cc639, started on Wed Jun 17 22:27:04 CST 2020
+22:27:06.901 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@4c2cc639, started on Wed Jun 17 22:27:04 CST 2020
+22:27:06.903 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+22:27:06.905 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+22:27:06.905 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+23:04:03.592 [main] INFO  c.w.f.FrontwebApplicationTests - Starting FrontwebApplicationTests on LAPTOP-999H49BF with PID 52792 (started by ASUS in E:\SpringBootProject\springbootDemo)
+23:04:03.593 [main] INFO  c.w.f.FrontwebApplicationTests - The following profiles are active: dev2
+23:04:03.625 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c3b9394
+23:04:03.625 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c3b9394
+23:04:04.170 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.wshy.exceptioncore]' package. Please check your configuration.
+23:04:04.885 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+23:04:04.911 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:04:04.911 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:04:04.996 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+23:04:04.996 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+23:04:05.050 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:04:05.050 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:04:05.067 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+23:04:05.067 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+23:04:05.139 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+23:04:05.140 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+23:04:05.317 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+23:04:05.447 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+23:04:05.764 [main] INFO  c.w.f.FrontwebApplicationTests - Started FrontwebApplicationTests in 2.588 seconds (JVM running for 3.606)
+23:04:05.977 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c3b9394, started on Wed Jun 17 23:04:03 CST 2020
+23:04:05.977 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c3b9394, started on Wed Jun 17 23:04:03 CST 2020
+23:04:05.981 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:04:05.981 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+23:05:24.784 [main] INFO  c.w.f.FrontwebApplicationTests - Starting FrontwebApplicationTests on LAPTOP-999H49BF with PID 50244 (started by ASUS in E:\SpringBootProject\springbootDemo)
+23:05:24.785 [main] INFO  c.w.f.FrontwebApplicationTests - The following profiles are active: dev2
+23:05:24.814 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6f2cfcc2
+23:05:24.814 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6f2cfcc2
+23:05:25.364 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.wshy.exceptioncore]' package. Please check your configuration.
+23:05:26.040 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+23:05:26.066 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:05:26.066 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:05:26.142 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+23:05:26.142 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+23:05:26.199 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:05:26.199 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:05:26.218 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+23:05:26.218 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+23:05:26.283 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+23:05:26.284 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+23:05:26.464 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+23:05:26.610 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+23:05:26.944 [main] INFO  c.w.f.FrontwebApplicationTests - Started FrontwebApplicationTests in 2.598 seconds (JVM running for 3.557)
+23:05:27.173 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@6f2cfcc2, started on Wed Jun 17 23:05:24 CST 2020
+23:05:27.173 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@6f2cfcc2, started on Wed Jun 17 23:05:24 CST 2020
+23:05:27.176 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+23:05:27.176 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

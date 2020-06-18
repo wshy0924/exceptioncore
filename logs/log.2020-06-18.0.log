@@ -1,0 +1,17 @@
+15:25:08.289 [main] INFO  c.w.e.FrontwebApplicationTests - Starting FrontwebApplicationTests on LAPTOP-999H49BF with PID 21748 (started by ASUS in E:\SpringBootProject\ExceptionCore)
+15:25:08.290 [main] INFO  c.w.e.FrontwebApplicationTests - The following profiles are active: dev2
+15:25:08.319 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@23aa363a
+15:25:08.319 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@23aa363a
+15:25:09.374 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:25:09.397 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+15:25:09.397 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+15:25:09.470 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+15:25:09.470 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 7 mappings in 'requestMappingHandlerMapping'
+15:25:09.516 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+15:25:09.516 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+15:25:09.530 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+15:25:09.530 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+15:25:09.627 [main] INFO  c.w.e.FrontwebApplicationTests - Started FrontwebApplicationTests in 1.738 seconds (JVM running for 2.701)
+15:25:09.906 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@23aa363a, started on Thu Jun 18 15:25:08 CST 2020
+15:25:09.906 [SpringContextShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@23aa363a, started on Thu Jun 18 15:25:08 CST 2020
+15:25:09.908 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

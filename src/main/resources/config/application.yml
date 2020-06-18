@@ -1,0 +1,27 @@
+#server:
+#  port: 8080
+
+# MyBatis配置
+mybatis:
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapper-locations: classpath:mapper/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:/mybatis-config.xml
+  #type-aliases-package: com.ggeit.pay.entity
+
+spring:
+  jmx:
+    default-domain: project2
+  thymeleaf:
+    prefix: classpath:/templates/
+    mode: LEGACYHTML5
+  resources:
+    static-locations: classpath:/static/
+  profiles:
+    active: dev2
+
+
+
+
+
+
